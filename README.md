@@ -1,4 +1,4 @@
-![logo](https://github.com/FreeStudio7/FreeStudio7/blob/0db838ef44ae8caa17d9f69c20fd2fad0e4de75b/Green%20Neon%20Trendy%20Gaming%20Youtube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Aryan Saini</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
