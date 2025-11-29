@@ -1,74 +1,21 @@
-<!-- Beautiful GitHub Profile README by Aryan Saini -->
+# 💫 About Me:
+🔭 I’m currently working on Mobile & Web Applications<br>🌱 I’m learning Advanced Flutter, Unity & Backend Development<br>💬 Ask me about Android, Flutter, Unity, Firebase, or C#<br>📫 Reach me at Freeestudio7@gmail.com<br>⚡ Fun fact: Coding is fun — until you meet that one stubborn bug ..
 
-# 👋 Hi, I'm Aryan Saini
-### 🚀 A Passionate Application Developer from India 🇮🇳
 
-<p align="center">
-  <img src="https://i.gifer.com/JXA0.gif" alt="Coding animation" width="420"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan9568/) 
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=freestudio7&label=Profile%20Views&color=blueviolet&style=flat-square)
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aryan001-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aryan001-0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan001-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 💡 About Me
-
-- 🔭 I’m currently working on **Mobile & Web Applications**  
-- 🌱 I’m learning **Advanced Flutter, Unity & Backend Development**  
-- 💬 Ask me about **Android, Flutter, Unity, Firebase, or C#**  
-- 📫 Reach me at **Freeestudio7@gmail.com**  
-- ⚡ Fun fact: *Coding is fun — until you meet that one stubborn bug 😅*
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aryan001-0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Aryan001-0&icon=9&color=7)](https://visitcount.itsvg.in)
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <!-- Replace the href values with your actual profile URLs -->
-  <a href="mailto:Freeestudio7@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-</p>
-
-> _Tip:_ replace `YOUR_*_USERNAME` with your real handles so visitors reach your profiles.
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <a href="https://developer.android.com" title="Tools"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,dart,flutter,unity,cs,cpp,c,html,css,git,firebase" alt="Languages & Tools"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freestudio7&show_icons=true&theme=tokyonight&hide_border=true" alt="Aryan's GitHub stats" />
-</p>
-
-<p align="center">
-  <!-- If you want streaks, verify the service; replace username if needed -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=freestudio7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freestudio7&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🌐 Activity / Visitor Map
-
-<p align="center">
-  <!-- Example contribution graph image; replace with whichever service you prefer -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=freestudio7&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
-### ✨ “Building ideas into apps — one line of code at a time.” ✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
